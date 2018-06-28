@@ -1,0 +1,10 @@
+.search-div {
+    margin-top: 50px;
+}
+
+#search-input {
+    margin-left: 10px;
+    width: 80%;
+    max-width: 200px;
+    max-lines: 1;
+}
